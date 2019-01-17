@@ -1,4 +1,8 @@
 {
+    "name": "ruverd/skeleton-ddd-laravel-api",
+    "description": "Skeleton for API Laravel with architecture DDD (Domain Driven Design)",
+    "keywords": ["skeleton", "laravel", "ddd", "api", "jwt", "repository"],
+    "license": "MIT",
     "name": "laravel/laravel",
     "type": "project",
     "description": "The Laravel Framework.",
