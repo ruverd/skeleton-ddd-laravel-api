@@ -18,5 +18,5 @@ php artisan jwt:secret
 Configure the `.env` file after configuring run the command below to create the database:
 
 ```shell
-php artisan migrator 
+php artisan migrate
 ```
