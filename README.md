@@ -11,8 +11,8 @@ Skeleton for API Laravel with architecture DDD (Domain Driven Design)
 
 ```shell
 $ git clone git@github.com:ruverd/skeleton-ddd-laravel-api.git new_project_name
-npm install
-php artisan jwt:generate
+composer install
+php artisan jwt:secret
 ```
 
 Configure the `.env` file after configuring run the command below to create the database:
